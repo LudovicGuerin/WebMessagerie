@@ -13,9 +13,9 @@ services:
   db:
     image: mysql:5.7
     environment:
-      MYSQL_ROOT_PASSWORD: rootpassword
+      MYSQL_ROOT_PASSWORD: R00tPa§§word
       MYSQL_DATABASE: Messagerie
-      MYSQL_USER: user
-      MYSQL_PASSWORD: password
+      MYSQL_USER: LGuerin
+      MYSQL_PASSWORD: Phoenix2.0Dragon3.0
     ports:
       - "3306:3306"
